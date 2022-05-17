@@ -1,0 +1,27 @@
+body{
+    font:20px arial, serif;
+}
+
+.navbar{
+    background-image: linear-gradient(to right, #ffdde1  , #fc67fa);
+}
+.quem-somos{
+    background-image: linear-gradient(to right, #ffdde1 , #ee9ca7);
+    color: whitesmoke;
+}
+.parceiros{
+    background-image: linear-gradient(to right, #ffdde1 , #ee9ca7);
+    color: whitesmoke;
+}
+.servicos{
+    background-image: linear-gradient(to right, #ffdde1 , #ee9ca7);
+    color: whitesmoke;
+}
+.rodape{
+    background-image: linear-gradient(to right, #ffdde1  , #fc67fa);
+    color: whitesmoke;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
